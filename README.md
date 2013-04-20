@@ -1,4 +1,4 @@
 Corporate Logos
 ===============
 
-Curated repo of publically listed co. logos, identified by ticker symbol.
+Curated repo of publicly listed co. logos, identified by ticker.
